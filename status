@@ -1,0 +1,113 @@
+[33mcommit cc22f118d64cdefb436ee9e91b66df723fa3e005[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Wed Apr 12 09:37:13 2017 -0300
+
+    Jogada especial promocao
+
+[33mcommit e65671555a20cd0fb7d2dcfda80df6fd90c493a9[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Wed Apr 12 09:33:15 2017 -0300
+
+    Jogada especial en passant
+
+[33mcommit a6cae8a9e4e68c7f448de955fc9bb73020508170[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Wed Apr 12 09:05:35 2017 -0300
+
+    Jogada especial roque pequeno e roque grande
+
+[33mcommit 985c9c4f2194a484424e9d5994b3b38efc34dfee[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Wed Apr 12 08:57:23 2017 -0300
+
+    Acrescentando as demais pecas
+
+[33mcommit 3bbc72344bff973e35e36f361e21a6a23e192fec[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Sun Oct 9 17:42:53 2016 -0300
+
+    Correcao: mudando o nome do metodo para movimentoPossivel
+
+[33mcommit daa8385c4e937e4fcc13eb2176e91d9f5b32619a[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Sun Oct 9 17:09:55 2016 -0300
+
+    Implementando a logica de xequemate
+
+[33mcommit 9b53f7c4a387340a267005ba28afabd5aba4392b[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Sun Oct 9 15:40:46 2016 -0300
+
+    Implementando a verificacao de xeque
+
+[33mcommit bdf69f9b92648239d7f663947e61c0d50638735c[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Sun Oct 9 14:07:11 2016 -0300
+
+    Controlando as pecas capturadas
+
+[33mcommit fba1295a881e5db95c51083178b18ed48d69ee0f[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Sun Oct 9 12:24:59 2016 -0300
+
+    Implementando as restricoes de movimento
+
+[33mcommit cb64c9579e58c0f83533f3e64e97a3591f9c226f[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Sun Oct 9 10:58:24 2016 -0300
+
+    Testes iniciais com movimentos possiveis das pecas
+
+[33mcommit 886a293edeea6fc571aa2483dbfd48e8ef230c06[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Sun Oct 2 20:20:46 2016 -0300
+
+    Fazendo os primeiros testes de movimentacao
+
+[33mcommit 506fef6b15f7fa2bb96d4600a1e7d48d5d17ce7a[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Sun Oct 2 19:45:03 2016 -0300
+
+    Melhorando a implementacao do metodo imprimirTabuleiro
+
+[33mcommit e3c563077580c080f13d0a5e383dff56c46f285f[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Sun Oct 2 19:28:17 2016 -0300
+
+    Criando a classe PosicaoXadrez
+
+[33mcommit 49e1dc7ffd1f2059295693c89fb286fa1dbf2407[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Sun Oct 2 12:57:23 2016 -0300
+
+    Tratando erros com excecao personalizada
+
+[33mcommit cf159ce2cbd9d5cfef9385f6aff84c3470e527ee[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Sun Oct 2 12:13:21 2016 -0300
+
+    Comecando a colocar pecas no tabuleiro
+
+[33mcommit 4bb86df100e378f19fd47fe3fdec3e23dbce01db[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Sun Oct 2 11:28:05 2016 -0300
+
+    Comecando a implementar um metodo que imprime o tabuleiro
+
+[33mcommit ddd613b13e97559fcba196513f157dbd716131da[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Sun Oct 2 10:46:48 2016 -0300
+
+    Comecando a implementar o tabuleiro
+
+[33mcommit 8304d7fddc8edbe6191b6fceb7d51f4b61a6c2fe[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Sun Oct 2 10:26:57 2016 -0300
+
+    Criando a classe Posicao
+
+[33mcommit 67f5b27f1c3897bce1d0608064ac775d4582421a[m
+Author: Nelio Alves <nelio.iftm@gmail.com>
+Date:   Sun Oct 2 10:02:08 2016 -0300
+
+    Projeto criado
